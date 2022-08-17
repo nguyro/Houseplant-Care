@@ -1,5 +1,5 @@
 # Houseplant Care Info
-## **Video Demo:** [youtube.com](youtube.com)
+## **Video Demo:** https://www.youtube.com/watch?v=8qMc7DV8hhY
 &nbsp;
 ## **Description:**
 This code outputs houseplant care information using houseplant data web scraped from http://www.tropicopia.com/house-plant/index.html and https://www.houseplant411.com/houseplant
